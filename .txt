@@ -1,0 +1,4 @@
+e8ea1f964a184f97a359bcd7f0c6edbc
+
+
+https://api.cognitive.microsofttranslator.com
