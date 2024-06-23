@@ -1,8 +1,32 @@
-# React + Vite
+# Translator Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web application allows you to translate text from one language to another using the Microsoft Translator API. It's built with React and Material-UI for the frontend, and Axios for handling API requests.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Setup](#setup)
+  - [Clone the Repository](#clone-the-repository)
+  - [Install Dependencies](#install-dependencies)
+  - [Set Up Environment Variables](#set-up-environment-variables)
+  - [Start the Development Server](#start-the-development-server)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Translate text between various languages supported by Microsoft Translator API.
+- Auto-detect language feature to automatically identify the language of the input text.
+- User-friendly interface with Material-UI components for easy navigation and interaction.
+
+## Setup
+
+To run this project locally, you need to have Node.js and npm (or yarn) installed on your machine.
+
+### Clone the Repository
+
+```bash
+git clone <repository-url>
+cd translator-web-app
+
